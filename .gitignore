@@ -5,3 +5,13 @@
 **/target
 **/build
 **/.svn/
+**/.idea/
+**/*.iml
+/data/publiccms/database.properties
+/data/publiccms/install.lock
+/data/publiccms/license.dat
+/data/publiccms/indexes/
+/data/publiccms/backup/
+/data/publiccms/history/
+/data/publiccms/temp/
+/data/publiccms/template/cache/
